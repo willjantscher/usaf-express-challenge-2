@@ -2,25 +2,29 @@
     {
         "name": "Bob",
         "id": 1,
-        "grades": [
+        "grades": 
             {"Math": "A",
             "English": "B"}
-        ]
     },
     {
         "name": "Bill",
         "id": 2,
-        "grades": [
+        "grades": 
             {"Math": "C",
             "English": "B"}
-        ]
     },
     {
         "name": "Jane",
         "id": 3,
-        "grades": [
+        "grades":
             {"Math": "B",
             "English": "A"}
-        ]
+    },
+    {
+        "name": "Jane",
+        "id": 4,
+        "grades":
+            {"Math": "D",
+            "English": "F"}
     }
 ]
