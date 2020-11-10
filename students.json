@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bob",
+        "id": 1,
+        "grades": [
+            {"Math": "A",
+            "English": "B"}
+        ]
+    },
+    {
+        "name": "Bill",
+        "id": 2,
+        "grades": [
+            {"Math": "C",
+            "English": "B"}
+        ]
+    },
+    {
+        "name": "Jane",
+        "id": 3,
+        "grades": [
+            {"Math": "B",
+            "English": "A"}
+        ]
+    }
+]
